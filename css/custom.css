@@ -1,3 +1,20 @@
 body {
-    background-color: blue;
+    background-color: ;
+}
+
+#l1pu {
+    list-style-type: circle; 
+    color: blueviolet;
+}
+
+#l2pu {
+    list-style-type: circle; 
+    color: aquamarine;
+}
+
+.genlistpu {
+
+    list-style-type: none;
+    color: bisque;
+    text-decoration: wavy;
 }
